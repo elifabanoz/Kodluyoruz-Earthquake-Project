@@ -1,1 +1,1 @@
-# Kodluyoruz-Earthquake-Project
+# Kodluyoruz_Earthquake_Project
